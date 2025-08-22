@@ -3,5 +3,5 @@ Working With AI - Awesome
 
 
 "Utilize AI well"
-or 
+OR 
 "be replaced by AI“
